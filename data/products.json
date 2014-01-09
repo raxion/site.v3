@@ -1,0 +1,284 @@
+{
+  "facroi": {
+    "sv": [
+      {
+		"id": 1,
+        "name": "Dagkräm",
+        "description": "med ros och lavendel. En mycket fin kvinnokräm som passar alla hudtyper."
+      },
+      {
+		"id": 2,
+        "name": "Nattkräm",
+        "description": "med rosenträ och sandelträ. Bra för torr och känslig hud."
+      },
+      {
+		"id": 3,
+        "name": "Sinnlighetskräm",
+        "description": "med apelsin och ylang-ylang. Härligt välgörande för både kropp och själ."
+      },
+      {
+		"id": 4,
+        "name": "Lyxkräm",
+        "description": "med neroli och lavendel. En underbar kvinnokräm som ger vardagen lyx."
+      },
+      {
+		"id": 5,
+        "name": "Värksalva",
+        "description": "Muskelavslappnande salva - bra vid växtvärk på barns ben, stela leder, nackont, träningsvärk och dyligt."
+      },
+      {
+		"id": 6,
+        "name": "Läkesalva ",
+        "description": "Hudsalva - mycket bra vid eksem och torr hy, självsprickor på huden och förhårdnade fötter."
+      }
+    ],
+    "en": [
+      {
+		"id": 1,
+        "name": "prod3",
+        "description": "awesome3"
+      },
+      {
+		"id": 2,
+        "name": "prod4",
+        "description": "awesome4"
+      },
+      {
+		"id": 3,
+        "name": "prod4",
+        "description": "awesome4"
+      },
+      {
+		"id": 4,
+        "name": "prod4",
+        "description": "awesome4"
+      },
+      {
+		"id": 5,
+        "name": "prod4",
+        "description": "awesome4"
+      },
+      {
+		"id": 6,
+        "name": "prod4",
+        "description": "awesome4"
+      }
+    ]
+  },
+  "booil": {
+    "sv": [
+      {
+		"id": 1,
+        "name": "Aprikoskärneolja",
+        "description": "bra för mogen och känslig hy."
+      },
+      {
+		"id": 2,
+        "name": "prod2",
+        "description": "awesome2"
+      },
+      {
+		"id": 3,
+        "name": "prod4",
+        "description": "awesome4"
+      },
+      {
+		"id": 4,
+        "name": "prod4",
+        "description": "awesome4"
+      },
+      {
+		"id": 5,
+        "name": "prod4",
+        "description": "awesome4"
+      },
+      {
+		"id": 6,
+        "name": "prod4",
+        "description": "awesome4"
+      },
+      {
+		"id": 7,
+        "name": "prod4",
+        "description": "awesome4"
+      }
+    ],
+    "en": [
+      {
+		"id": 1,
+        "name": "prod3",
+        "description": "awesome3"
+      },
+      {
+		"id": 2,
+        "name": "prod4",
+        "description": "awesome4"
+      },
+      {
+		"id": 3,
+        "name": "prod4",
+        "description": "awesome4"
+      },
+      {
+		"id": 4,
+        "name": "prod4",
+        "description": "awesome4"
+      },
+      {
+		"id": 5,
+        "name": "prod4",
+        "description": "awesome4"
+      },
+      {
+		"id": 6,
+        "name": "prod4",
+        "description": "awesome4"
+      },
+      {
+		"id": 7,
+        "name": "prod4",
+        "description": "awesome4"
+      }
+    ]
+  },
+  "esoil": {
+    "sv": [
+      {
+        "name": "Apelsin",
+        "description": "upplyftande på vårt sinne."
+      },
+      {
+		"id": 1,
+        "name": "prod2",
+        "description": "awesome2"
+      },
+      {
+		"id": 2,
+        "name": "prod2",
+        "description": "awesome2"
+      },
+      {
+		"id": 3,
+        "name": "prod2",
+        "description": "awesome2"
+      },
+      {
+		"id": 4,
+        "name": "prod2",
+        "description": "awesome2"
+      },
+      {
+		"id": 5,
+        "name": "prod2",
+        "description": "awesome2"
+      },
+      {
+		"id": 6,
+        "name": "prod2",
+        "description": "awesome2"
+      },
+      {
+		"id": 7,
+        "name": "prod2",
+        "description": "awesome2"
+      },
+      {
+		"id": 8,
+        "name": "prod2",
+        "description": "awesome2"
+      },
+      {
+		"id": 9,
+        "name": "prod2",
+        "description": "awesome2"
+      },
+      {
+		"id": 10,
+        "name": "prod2",
+        "description": "awesome2"
+      },
+      {
+		"id": 11,
+        "name": "prod2",
+        "description": "awesome2"
+      },
+      {
+		"id": 12,
+        "name": "prod2",
+        "description": "awesome2"
+      },
+      {
+		"id": 13,
+        "name": "prod2",
+        "description": "awesome2"
+      }
+    ],
+    "en": [
+      {
+		"id": 1,
+        "name": "prod3",
+        "description": "awesome3"
+      },
+      {
+		"id": 2,
+        "name": "prod4",
+        "description": "awesome4"
+      },
+      {
+		"id": 3,
+        "name": "prod2",
+        "description": "awesome2"
+      },
+      {
+		"id": 4,
+        "name": "prod2",
+        "description": "awesome2"
+      },
+      {
+		"id": 5,
+        "name": "prod2",
+        "description": "awesome2"
+      },
+      {
+		"id": 6,
+        "name": "prod2",
+        "description": "awesome2"
+      },
+      {
+		"id": 7,
+        "name": "prod2",
+        "description": "awesome2"
+      },
+      {
+		"id": 8,
+        "name": "prod2",
+        "description": "awesome2"
+      },
+      {
+		"id": 9,
+        "name": "prod2",
+        "description": "awesome2"
+      },
+      {
+		"id": 10,
+        "name": "prod2",
+        "description": "awesome2"
+      },
+      {
+		"id": 11,
+        "name": "prod2",
+        "description": "awesome2"
+      },
+      {
+		"id": 12,
+        "name": "prod2",
+        "description": "awesome2"
+      },
+      {
+		"id": 13,
+        "name": "prod2",
+        "description": "awesome2"
+      }
+    ]
+  }
+}

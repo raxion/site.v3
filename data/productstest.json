@@ -1,0 +1,68 @@
+{
+  "facroi": {
+    "sv": [
+      {
+        "name": "Dagkräm",
+        "description": "med ros och lavendel. En mycket fin kvinnokräm som passar alla hudtyper."
+      },
+      {
+        "name": "prod2",
+        "description": "awesome2"
+      }
+    ],
+    "en": [
+      {
+        "name": "prod3",
+        "description": "awesome3"
+      },
+      {
+        "name": "prod4",
+        "description": "awesome4"
+      }
+    ]
+  },
+  "booil": {
+    "sv": [
+      {
+        "name": "Aprikoskärneolja",
+        "description": "bra för mogen och känslig hy."
+      },
+      {
+        "name": "prod2",
+        "description": "awesome2"
+      }
+    ],
+    "en": [
+      {
+        "name": "prod3",
+        "description": "awesome3"
+      },
+      {
+        "name": "prod4",
+        "description": "awesome4"
+      }
+    ]
+  },
+  "esoil": {
+    "sv": [
+      {
+        "name": "Apelsin",
+        "description": "upplyftande på vårt sinne."
+      },
+      {
+        "name": "prod2",
+        "description": "awesome2"
+      }
+    ],
+    "en": [
+      {
+        "name": "prod3",
+        "description": "awesome3"
+      },
+      {
+        "name": "prod4",
+        "description": "awesome4"
+      }
+    ]
+  }
+}
